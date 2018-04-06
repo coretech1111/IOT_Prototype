@@ -1,2 +1,2 @@
 # IOT_Prototype
-# This is prototype which is to build core team
+# This is prototype to build core competency about IOT
