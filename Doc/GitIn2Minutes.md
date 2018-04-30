@@ -16,7 +16,7 @@ Command:           $git status
 Command:  $ git commit -a -m  "comment" 
 Example: $ git commit -a -m  "Sync 31_3: Correct ADC handling to fix ESP issue, add new ECUmanager module"
 
-# 6. 
+# 6. Commit lên git sever
 Command: $ git push -[Project URLS]
 Example:
 git -push https://github.com/coretech1111/IOT_Prototype.git
