@@ -9,5 +9,5 @@ This is prototype to build core competency about IOT
 ## Git practices
 [Quick  guideline](Doc/GitIn2Minutes.md)
 ## Process
- tbd
- Reference: Product Design and Development - Karl T. Ulrich/Steven D. Eppinger
+
+Reference: Product Design and Development - Karl T. Ulrich/Steven D. Eppinger
