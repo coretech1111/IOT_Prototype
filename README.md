@@ -1,6 +1,6 @@
 # IOT_Prototype
 ## Introduction
-This is prototype to build core competency about IOT
+This is prototype to build core competency about IoT
 ## Coding style
  Please refer below docs for best practices:
  1. Code complete
