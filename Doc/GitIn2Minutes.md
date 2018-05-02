@@ -18,7 +18,9 @@ Command:  $ git commit -a -m  "comment"
 Example: $ git commit -a -m  "Sync 31_3: Correct ADC handling to fix ESP issue, add new ECUmanager module"
 
 ## 6. Commit to git sever
-Command: $ git push -[Project URLS]
+Command: $ git push [Remote name] [Branch]
+
+See: https://git-scm.com/docs/git-push
 
 Example:
-git -push https://github.com/coretech1111/IOT_Prototype.git
+git -push origin master
