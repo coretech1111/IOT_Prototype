@@ -24,3 +24,8 @@ See: https://git-scm.com/docs/git-push
 
 Example:
 git -push origin master
+## 7. Create a new branch with git and manage branches
+
+See: https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+
+
