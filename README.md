@@ -3,9 +3,14 @@
 This is prototype to build core competency about IoT
 ## Coding style
  Please refer below docs for best practices:
- 1. Code complete
- 2. Embedded C Coding standard - Michael barr
- 3. https://github.com/google/styleguide
+ * Code complete
+ * Embedded C Coding standard - Michael barr
+ * https://github.com/google/styleguide
+ * http://cleancoders.com/
+ * http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29
+ * http://en.wikipedia.org/wiki/Code_smell
+ * http://en.wikipedia.org/wiki/Code_refactoring
+ * http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052
 ## Git practices
 [Quick  guideline](Doc/GitIn2Minutes.md)
 ## Process
