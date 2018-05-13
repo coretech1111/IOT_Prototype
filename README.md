@@ -1,4 +1,4 @@
-# IOT_Prototype
+# IOT_Prototype_Phong
 ## Introduction
 This is prototype to build core competency about IoT
 ## Coding style
